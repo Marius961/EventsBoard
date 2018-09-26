@@ -1,0 +1,27 @@
+html {
+    background-color: #f1f1f1;
+}
+
+html > body {
+    background-color: #f1f1f1;
+}
+
+.topic {
+    font-family: "Segoe UI Semilight", serif;
+    font-size: 5.5mm;
+    transition: 200ms;
+    color: black;
+}
+
+.topic:hover {
+    text-decoration: none;
+    transition: 200ms;
+}
+
+.content-box {
+    background-color: snow;
+}
+
+.topic-content {
+
+}
